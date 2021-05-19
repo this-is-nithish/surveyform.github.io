@@ -6,7 +6,7 @@
 
 .main{
     max-width: 100%;
-    min-height: 185vh;
+    min-height: 160vh;
     background-size: cover;
     background-color: rgb(0, 0, 0);
     position: relative;
@@ -19,7 +19,7 @@
     max-width: 70%;
     min-height: 150vh;
     margin: auto;
-    position: relative;
+    
 
 
 }
@@ -139,6 +139,8 @@
 }
 #comments{
     font-size: large;
+    width: 70%;
+    height: 80px;
 }
 
 @media(max-width: 700px){
